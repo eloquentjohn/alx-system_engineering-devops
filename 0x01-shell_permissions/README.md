@@ -1,1 +1,1 @@
-Shell, permissions
+This is the readme for the Shell permissions project
